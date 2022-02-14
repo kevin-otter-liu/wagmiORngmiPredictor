@@ -1,2 +1,2 @@
 # wagmiORngmiPredictor
-Using image recognition to predict whether an NFT is gonna make it or break it
+Using image recognition model to predict whether an NFT is gonna make it or break it
